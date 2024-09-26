@@ -1,6 +1,7 @@
 ﻿using System.Collections.Specialized;
 using System.Reflection.Metadata;
 
+// Testing to see if this updates - joelle
 namespace CSC317GitHubSeatingExercise
 {
     public class SeatingUnit
